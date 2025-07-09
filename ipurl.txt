@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/D-yyds/USIPYOUXUAN/refs/heads/main/ipv4.txt@172.67.112.231
+https://raw.githubusercontent.com/D-yyds/USIPYOUXUAN/refs/heads/main/ipv4.txt@145.159.218.147
+
